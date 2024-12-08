@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # holidays-display
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# HolidaysVueJS
+A webpage for consult brazilian holidays consuming Brasil API. Used for practice of the VueJS framework
+>>>>>>> 5204c11e8e1b8477d2040a9ff584cf280e2da61a
