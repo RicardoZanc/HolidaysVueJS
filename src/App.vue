@@ -7,8 +7,10 @@
     </div>
     </nav>
   </header>
-  <main class="w-full h-full d-flex flex grow items-center justify-center ">
-    <SearchCard/>
+  <main class="flex items-center justify-center w-full">
+    <section class="grid w-full h-full place-items-center content-center p-24">
+      <SearchCard/>
+    </section>
   </main>
 </template>
 
