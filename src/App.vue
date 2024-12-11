@@ -9,11 +9,11 @@
   </header>
   <main class="flex items-center justify-center w-full">
     <section class="grid w-full h-full place-items-center content-center p-24">
-      <SearchCard/>
+      <RouterView />
     </section>
   </main>
 </template>
 
-  <script setup>
-  import SearchCard from "@/components/SearchCard.vue"
-  </script>
+<script setup>
+  import { RouterLink, RouterView } from 'vue-router';
+</script>
